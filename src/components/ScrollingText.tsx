@@ -3,8 +3,8 @@ export function ScrollingText() {
     "JOHN DOE",
     "JANE DOE",
     "JOE SHMOE",
-    "SHMEICA SHLEXICA",
-    "JACK JONES"
+    "PETER PIPER",
+    "JOHN SMITH"
   ]
 
   // Duplicate the array to create seamless scrolling
