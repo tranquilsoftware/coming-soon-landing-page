@@ -1,5 +1,7 @@
 {
   "name": "coming-soon-landing-page",
+  "description": "Coming Soon Landing Page",
+  "homepage": "https://tranquilsoftware.github.io/coming-soon-landing-page/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
